@@ -1,6 +1,8 @@
 # Bitcoin-Diploma-2024
 
 [Bitcoin Diploma - 2024 - PDF](https://github.com/MyFirstBitcoin/Bitcoin-Diploma---2024/blob/main/Bitcoin%20Diploma%20-%202024%20-%20PDF.pdf) 
+[Manuscript](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/tree/main/Manuscript)
+
 
 2024 version of our flagship 10-week program that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
 
