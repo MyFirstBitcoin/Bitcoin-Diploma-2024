@@ -4,7 +4,7 @@
 
 [Bitcoin Diploma - 2024 - PDF](https://github.com/MyFirstBitcoin/Bitcoin-Diploma---2024/blob/main/Bitcoin%20Diploma%20-%202024%20-%20PDF.pdf) 
 
-[Manuscript](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/tree/main/Manuscript)
+[Manuscript - text files](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/tree/main/Manuscript)
 
 [Adobe Files](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/tree/main/Adobe%20Files)
 
