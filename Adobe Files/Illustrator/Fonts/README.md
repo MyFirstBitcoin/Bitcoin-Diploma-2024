@@ -15,3 +15,4 @@ The only extra fonts that you will need to install are:
 <br/>
 
 - The font for chat bubbles on pages 10 and 11 is "Kristen ITC".
+- The font for chat bubbles on page 24 is "I Hate Comic Sans". To install it, follow step 4 in the instructions above, but use the "IHateComicSans.ttf" file instead.
