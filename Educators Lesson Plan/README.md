@@ -9,3 +9,5 @@ This is a complementary and comprehensive lesson plan designed to assist educato
 
 We believe this will help teachers, tutors, and educators. This resource aims to facilitate the teaching of the main material and make it more accessible, easy to go through, and engaging for learners of all ages.
 
+> [!NOTE]
+> The file "Lesson Plan Guide - 2024 (links not working but openable).pdf" is for easy viewing with Adobe Reader and mobile device. But links don't work. <br> The file "Lesson Plan Guide - 2024.pdf" has working links and open it using Foxit Reader as it has difficulty to load in Adobe Reader due to the many links in the file.
