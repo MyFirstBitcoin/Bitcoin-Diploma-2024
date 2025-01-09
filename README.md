@@ -1,4 +1,4 @@
-# 2025 Update - [**Bitcoin Diploma - 2025**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025)
+# Newest 2025 Update - [**Bitcoin Diploma - 2025**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025)
 
 
 # Bitcoin-Diploma-2024
